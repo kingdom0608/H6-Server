@@ -1,0 +1,11 @@
+node_modules
+*.js
+*.js.map
+*.d.ts
+
+cloudformation-template-update-stack.json
+handam-serverless.zip
+serverless-state.json
+
+cloudformation-template-create-stack.json
+handam-serverless-local.zip

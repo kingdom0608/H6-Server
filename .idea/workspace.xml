@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaf1ca52-ebf8-419b-84b8-02c1d9b53f15" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/apis/lecture/model/lecture.model.js" afterPath="$PROJECT_DIR$/apis/lecture/model/lecture.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/lecture/model/lecture.model.js.map" afterPath="$PROJECT_DIR$/apis/lecture/model/lecture.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/lecture/model/lecture.model.spec.js" afterPath="$PROJECT_DIR$/apis/lecture/model/lecture.model.spec.js" />
+      <change beforePath="$PROJECT_DIR$/apis/lecture/model/lecture.model.spec.js.map" afterPath="$PROJECT_DIR$/apis/lecture/model/lecture.model.spec.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/lecture/route/lecture.route.js" afterPath="$PROJECT_DIR$/apis/lecture/route/lecture.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/lecture/route/lecture.route.js.map" afterPath="$PROJECT_DIR$/apis/lecture/route/lecture.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.js" afterPath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.js.map" afterPath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.js" afterPath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.js" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.js.map" afterPath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts" afterPath="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.js" afterPath="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.js.map" afterPath="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/professor/model/professor.model.js" afterPath="$PROJECT_DIR$/apis/professor/model/professor.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/professor/model/professor.model.js.map" afterPath="$PROJECT_DIR$/apis/professor/model/professor.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/professor/route/professor.route.js" afterPath="$PROJECT_DIR$/apis/professor/route/professor.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/professor/route/professor.route.js.map" afterPath="$PROJECT_DIR$/apis/professor/route/professor.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/model/signIn.model.js" afterPath="$PROJECT_DIR$/apis/sign/model/signIn.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/model/signIn.model.js.map" afterPath="$PROJECT_DIR$/apis/sign/model/signIn.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/model/signUp.model.js" afterPath="$PROJECT_DIR$/apis/sign/model/signUp.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/model/signUp.model.js.map" afterPath="$PROJECT_DIR$/apis/sign/model/signUp.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/route/signIn.route.js" afterPath="$PROJECT_DIR$/apis/sign/route/signIn.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/route/signIn.route.js.map" afterPath="$PROJECT_DIR$/apis/sign/route/signIn.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/route/signUp.route.js" afterPath="$PROJECT_DIR$/apis/sign/route/signUp.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/sign/route/signUp.route.js.map" afterPath="$PROJECT_DIR$/apis/sign/route/signUp.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/test/model/test.model.js" afterPath="$PROJECT_DIR$/apis/test/model/test.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/test/model/test.model.js.map" afterPath="$PROJECT_DIR$/apis/test/model/test.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/test/route/test.route.js" afterPath="$PROJECT_DIR$/apis/test/route/test.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/test/route/test.route.js.map" afterPath="$PROJECT_DIR$/apis/test/route/test.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/user/model/user.model.js" afterPath="$PROJECT_DIR$/apis/user/model/user.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/user/model/user.model.js.map" afterPath="$PROJECT_DIR$/apis/user/model/user.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/user/route/user.route.js" afterPath="$PROJECT_DIR$/apis/user/route/user.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/user/route/user.route.js.map" afterPath="$PROJECT_DIR$/apis/user/route/user.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/userValidation/model/userValidation.model.js" afterPath="$PROJECT_DIR$/apis/userValidation/model/userValidation.model.js" />
+      <change beforePath="$PROJECT_DIR$/apis/userValidation/model/userValidation.model.js.map" afterPath="$PROJECT_DIR$/apis/userValidation/model/userValidation.model.js.map" />
+      <change beforePath="$PROJECT_DIR$/apis/userValidation/route/userValidation.route.js" afterPath="$PROJECT_DIR$/apis/userValidation/route/userValidation.route.js" />
+      <change beforePath="$PROJECT_DIR$/apis/userValidation/route/userValidation.route.js.map" afterPath="$PROJECT_DIR$/apis/userValidation/route/userValidation.route.js.map" />
+      <change beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change beforePath="$PROJECT_DIR$/app.js.map" afterPath="$PROJECT_DIR$/app.js.map" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/email.util.js" afterPath="$PROJECT_DIR$/packages/utils/email.util.js" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/email.util.js.map" afterPath="$PROJECT_DIR$/packages/utils/email.util.js.map" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/encryption.utli.js" afterPath="$PROJECT_DIR$/packages/utils/encryption.utli.js" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/encryption.utli.js.map" afterPath="$PROJECT_DIR$/packages/utils/encryption.utli.js.map" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/error.util.js" afterPath="$PROJECT_DIR$/packages/utils/error.util.js" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/error.util.js.map" afterPath="$PROJECT_DIR$/packages/utils/error.util.js.map" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/inviteCode.util.js" afterPath="$PROJECT_DIR$/packages/utils/inviteCode.util.js" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/inviteCode.util.js.map" afterPath="$PROJECT_DIR$/packages/utils/inviteCode.util.js.map" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/mysql.util.js" afterPath="$PROJECT_DIR$/packages/utils/mysql.util.js" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/mysql.util.js.map" afterPath="$PROJECT_DIR$/packages/utils/mysql.util.js.map" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/uuid.util.js" afterPath="$PROJECT_DIR$/packages/utils/uuid.util.js" />
+      <change beforePath="$PROJECT_DIR$/packages/utils/uuid.util.js.map" afterPath="$PROJECT_DIR$/packages/utils/uuid.util.js.map" />
+      <change beforePath="$PROJECT_DIR$/resources/lecture.resource.js" afterPath="$PROJECT_DIR$/resources/lecture.resource.js" />
+      <change beforePath="$PROJECT_DIR$/resources/lecture.resource.js.map" afterPath="$PROJECT_DIR$/resources/lecture.resource.js.map" />
+      <change beforePath="$PROJECT_DIR$/resources/lectureInfo.resource.js" afterPath="$PROJECT_DIR$/resources/lectureInfo.resource.js" />
+      <change beforePath="$PROJECT_DIR$/resources/lectureInfo.resource.js.map" afterPath="$PROJECT_DIR$/resources/lectureInfo.resource.js.map" />
+      <change beforePath="$PROJECT_DIR$/resources/professor.resource.js" afterPath="$PROJECT_DIR$/resources/professor.resource.js" />
+      <change beforePath="$PROJECT_DIR$/resources/professor.resource.js.map" afterPath="$PROJECT_DIR$/resources/professor.resource.js.map" />
+      <change beforePath="$PROJECT_DIR$/resources/user.resource.js" afterPath="$PROJECT_DIR$/resources/user.resource.js" />
+      <change beforePath="$PROJECT_DIR$/resources/user.resource.js.map" afterPath="$PROJECT_DIR$/resources/user.resource.js.map" />
+      <change beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+      <change beforePath="$PROJECT_DIR$/server.js.map" afterPath="$PROJECT_DIR$/server.js.map" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file leaf-file-name="lectureInfo.model.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3121">
+              <caret line="217" column="19" lean-forward="false" selection-start-line="217" selection-start-column="2" selection-end-line="217" selection-end-column="19" />
+=======
+      <file leaf-file-name="user.model.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/user/model/user.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="76" column="0" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="76" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lectureInfo.model.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-537">
+              <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lecture.model.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/lecture/model/lecture.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="151" column="5" lean-forward="false" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/user/route/user.route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="professor.route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/professor/route/professor.route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lectureInfo.route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-552">
+              <caret line="19" column="129" lean-forward="false" selection-start-line="19" selection-start-column="129" selection-end-line="19" selection-end-column="129" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lectureInfo.model.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="205">
+              <caret line="40" column="79" lean-forward="false" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+=======
+            <state relative-caret-position="348">
+              <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+              <folding>
+                <marker date="1519646014000" expanded="true" signature="1144:1147" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encryption.utli.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/utils/encryption.utli.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email.util.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/utils/email.util.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <marker date="1518611931000" expanded="true" signature="418:530" ph="{...}" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="user.resource.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/user.resource.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+=======
+      <file leaf-file-name="professor.model.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apis/professor/model/professor.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>professor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/packages/utils/mysql.utils.ts" />
+        <option value="$PROJECT_DIR$/resources/user.resource.ts" />
+        <option value="$PROJECT_DIR$/apis/user/route/user.route.ts" />
+        <option value="$PROJECT_DIR$/apis/test/model/test.model.ts" />
+        <option value="$PROJECT_DIR$/apis/test/route/test.route.ts" />
+        <option value="$PROJECT_DIR$/apis/user/model/user.model.ts" />
+        <option value="$PROJECT_DIR$/packages/utils/mysql.util.ts" />
+        <option value="$PROJECT_DIR$/packages/utils/email.util.ts" />
+        <option value="$PROJECT_DIR$/apis/userValidation/model/userValidation.model.ts" />
+        <option value="$PROJECT_DIR$/apis/sign/model/signIn.model.ts" />
+        <option value="$PROJECT_DIR$/apis/sign/model/signUp.model.ts" />
+        <option value="$PROJECT_DIR$/apis/sign/route/signIn.route.ts" />
+        <option value="$PROJECT_DIR$/apis/sign/route/signUp.route.ts" />
+        <option value="$PROJECT_DIR$/apis/lecture/route/lecture.route.ts" />
+        <option value="$PROJECT_DIR$/resources/lecture.resource.ts" />
+        <option value="$PROJECT_DIR$/resources/lectureInfo.resource.ts" />
+        <option value="$PROJECT_DIR$/apis/lecture/model/lecture.model.spec.ts" />
+        <option value="$PROJECT_DIR$/apis/lecture/model/lecture.model.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.ts" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.spec.ts" />
+        <option value="$PROJECT_DIR$/apis/professor/model/professor.model.ts" />
+        <option value="$PROJECT_DIR$/apis/professor/route/professor.route.ts" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.ts" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="839" />
+    <option name="y" value="740" />
+    <option name="width" value="1920" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Pug/Jade</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+              <item name="lectureInfo.route.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="professor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="professor" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="professor" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="user.model.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="apis" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+              <item name="user.route.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H6-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H6-server" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/.nvm/versions/node/v8.5.0/lib/node_modules/mocha" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.lectureInfo 모델.pageGetLectureInfoByLectureName">
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="lectureInfo 모델" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts</test-file>
+      <test-names>
+        <name value="lectureInfo 모델" />
+      </test-names>
+    </configuration>
+    <configuration name="lectureInfo 모델.getLectureInfoByLectureName" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts</test-file>
+      <test-names>
+        <name value="lectureInfo 모델" />
+        <name value="getLectureInfoByLectureName" />
+      </test-names>
+    </configuration>
+    <configuration name="lectureInfo 모델.getLectureInfoByProfessorName" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts</test-file>
+      <test-names>
+        <name value="lectureInfo 모델" />
+        <name value="getLectureInfoByProfessorName" />
+      </test-names>
+    </configuration>
+    <configuration name="lectureInfo 모델.pageGetLectureInfoByLectureName" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts</test-file>
+      <test-names>
+        <name value="lectureInfo 모델" />
+        <name value="pageGetLectureInfoByLectureName" />
+      </test-names>
+    </configuration>
+    <configuration name="lectureInfo 모델.pageListLectureInfo" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts</test-file>
+      <test-names>
+        <name value="lectureInfo 모델" />
+        <name value="pageListLectureInfo" />
+      </test-names>
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.getLectureInfoByLectureName" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.getLectureInfoByProfessorName" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.pageListLectureInfo" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.pageGetLectureInfoByLectureName" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.pageGetLectureInfoByLectureName" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.pageListLectureInfo" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.getLectureInfoByProfessorName" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.lectureInfo 모델.getLectureInfoByLectureName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf1ca52-ebf8-419b-84b8-02c1d9b53f15" name="Default" comment="" />
+      <created>1517127472714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517127472714</updated>
+      <workItem from="1517127473789" duration="2906000" />
+      <workItem from="1517190950462" duration="710000" />
+      <workItem from="1517217013742" duration="48000" />
+      <workItem from="1517629409123" duration="175000" />
+      <workItem from="1517629666271" duration="856000" />
+      <workItem from="1518526022090" duration="224000" />
+      <workItem from="1518526275367" duration="3727000" />
+      <workItem from="1518534247559" duration="3114000" />
+      <workItem from="1518597904627" duration="11000" />
+      <workItem from="1518598083076" duration="269000" />
+      <workItem from="1518598754760" duration="262000" />
+      <workItem from="1518999817171" duration="2417000" />
+      <workItem from="1519002293426" duration="10000" />
+      <workItem from="1519037517629" duration="17386000" />
+      <workItem from="1519274332277" duration="6335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="lectureInfo_모델 - 2018.02.25 at 12h 27m 55s.xml">
+      <configuration name="lectureInfo 모델" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델 - 2018.02.25 at 12h 28m 56s.xml">
+      <configuration name="lectureInfo 모델" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델 - 2018.02.25 at 12h 29m 08s.xml">
+      <configuration name="lectureInfo 모델" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델 - 2018.02.25 at 12h 29m 23s.xml">
+      <configuration name="lectureInfo 모델" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델 - 2018.02.25 at 14h 33m 42s.xml">
+      <configuration name="lectureInfo 모델" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델_pageGetLectureInfoByLectureName - 2018.02.25 at 14h 35m 10s.xml">
+      <configuration name="lectureInfo 모델.pageGetLectureInfoByLectureName" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델_pageGetLectureInfoByLectureName - 2018.02.25 at 14h 35m 27s.xml">
+      <configuration name="lectureInfo 모델.pageGetLectureInfoByLectureName" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델_pageGetLectureInfoByLectureName - 2018.02.25 at 14h 35m 41s.xml">
+      <configuration name="lectureInfo 모델.pageGetLectureInfoByLectureName" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델_pageGetLectureInfoByLectureName - 2018.02.25 at 14h 36m 12s.xml">
+      <configuration name="lectureInfo 모델.pageGetLectureInfoByLectureName" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="lectureInfo_모델_pageGetLectureInfoByLectureName - 2018.02.25 at 14h 36m 30s.xml">
+      <configuration name="lectureInfo 모델.pageGetLectureInfoByLectureName" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="63217000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="839" y="740" width="1920" height="1100" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39714867" sideWeight="0.39968404" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39714867" sideWeight="0.6003159" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916266" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="61766000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="312" y="56" width="983" height="767" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24923703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17617108" sideWeight="0.23635787" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17663981" sideWeight="0.76364213" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1195366" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17617108" sideWeight="0.23635787" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17663981" sideWeight="0.76364213" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916266" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/apis/lecture/model/lecture.model.js" />
+        <option value="$PROJECT_DIR$/apis/lecture/model/lecture.model.js.map" />
+        <option value="$PROJECT_DIR$/apis/lecture/route/lecture.route.js" />
+        <option value="$PROJECT_DIR$/apis/lecture/route/lecture.route.js.map" />
+        <option value="$PROJECT_DIR$/apis/professor/route/professor.route.js" />
+        <option value="$PROJECT_DIR$/apis/professor/route/professor.route.js.map" />
+        <option value="$PROJECT_DIR$/apis/professor/model/professor.model.js" />
+        <option value="$PROJECT_DIR$/apis/professor/model/professor.model.js.map" />
+        <option value="$PROJECT_DIR$/apis/sign/route/signUp.route.js" />
+        <option value="$PROJECT_DIR$/apis/sign/route/signUp.route.js.map" />
+        <option value="$PROJECT_DIR$/apis/sign/route/signIn.route.js" />
+        <option value="$PROJECT_DIR$/apis/sign/route/signIn.route.js.map" />
+        <option value="$PROJECT_DIR$/apis/sign/model/signUp.model.js" />
+        <option value="$PROJECT_DIR$/apis/sign/model/signUp.model.js.map" />
+        <option value="$PROJECT_DIR$/apis/sign/model/signIn.model.js" />
+        <option value="$PROJECT_DIR$/apis/sign/model/signIn.model.js.map" />
+        <option value="$PROJECT_DIR$/apis/user/model/user.model.js" />
+        <option value="$PROJECT_DIR$/apis/user/model/user.model.js.map" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/app.js.map" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server.js.map" />
+        <option value="$PROJECT_DIR$/apis/test/model/test.model.js" />
+        <option value="$PROJECT_DIR$/apis/test/model/test.model.js.map" />
+        <option value="$PROJECT_DIR$/apis/test/route/test.route.js" />
+        <option value="$PROJECT_DIR$/apis/test/route/test.route.js.map" />
+        <option value="$PROJECT_DIR$/apis/user/route/user.route.js" />
+        <option value="$PROJECT_DIR$/apis/user/route/user.route.js.map" />
+        <option value="$PROJECT_DIR$/packages/utils/error.util.js" />
+        <option value="$PROJECT_DIR$/packages/utils/error.util.js.map" />
+        <option value="$PROJECT_DIR$/packages/utils/email.util.js.map" />
+        <option value="$PROJECT_DIR$/packages/utils/email.util.js" />
+        <option value="$PROJECT_DIR$/packages/utils/inviteCode.util.js.map" />
+        <option value="$PROJECT_DIR$/packages/utils/inviteCode.util.js" />
+        <option value="$PROJECT_DIR$/packages/utils/uuid.util.js" />
+        <option value="$PROJECT_DIR$/packages/utils/uuid.util.js.map" />
+        <option value="$PROJECT_DIR$/resources/lectureInfo.resource.js" />
+        <option value="$PROJECT_DIR$/resources/lectureInfo.resource.js.map" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.js" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.js.map" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.js.map" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.js" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.js" />
+        <option value="$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apis/professor/model/professor.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/model/signIn.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/route/signIn.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/model/signUp.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/route/signUp.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/user/route/user.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/user/model/user.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/professor/route/professor.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/professor/model/professor.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lecture/route/lecture.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/model/signIn.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/route/signIn.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/model/signUp.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/route/signUp.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/user/route/user.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/userValidation/model/userValidation.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/inviteCode.util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/mysql.util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/uuid.util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/route/signIn.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/userValidation/model/userValidation.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/userValidation/route/userValidation.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/test/route/test.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/model/signIn.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/model/signUp.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/sign/route/signUp.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/email.util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1518611931000" expanded="true" signature="418:530" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/error.util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/encryption.utli.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/test/model/test.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lecture.resource.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/professor.resource.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lectureInfo.resource.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lecture/model/lecture.model.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/apis/lecture/route/lecture.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lecture/model/lecture.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="151" column="5" lean-forward="false" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/apis/professor/model/professor.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+    <entry file="file://$PROJECT_DIR$/apis/professor/route/professor.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/user/model/user.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/user/route/user.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2164">
+          <caret line="175" column="24" lean-forward="false" selection-start-line="175" selection-start-column="24" selection-end-line="175" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lectureInfo/route/lectureInfo.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="19" column="129" lean-forward="false" selection-start-line="19" selection-start-column="129" selection-end-line="19" selection-end-column="129" />
+          <folding />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/user.resource.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/professor/model/professor.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="205">
+          <caret line="40" column="79" lean-forward="false" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
+=======
+        <state relative-caret-position="348">
+          <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+          <folding>
+            <marker date="1519646014000" expanded="true" signature="1144:1147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apis/lectureInfo/model/lectureInfo.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="3121">
+          <caret line="217" column="19" lean-forward="false" selection-start-line="217" selection-start-column="2" selection-end-line="217" selection-end-column="19" />
+          <folding />
+=======
+        <state relative-caret-position="-1252">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+>>>>>>> 1fed3be6128e7dd9f28468c1f04a5c0755cd4625
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
